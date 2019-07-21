@@ -1,2 +1,2 @@
 # piCalculator
-Deneme sayınızla doğru orantılı olarak pi sayısına yaklaşırsınız.
+pi sayısına ilgi duyanlar için yaklaşık hesaplama kodu.
