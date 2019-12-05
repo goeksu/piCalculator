@@ -1,2 +1,2 @@
 # piCalculator
-pi sayısına ilgi duyanlar için yaklaşık hesaplama kodu.
+pi sayısına için yaklaşık hesaplama kodu.
