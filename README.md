@@ -1,2 +1,2 @@
 # piCalculator
-pi sayısına için yaklaşık hesaplama kodu.
+Approximate pi number calculation program with monte carlo method
